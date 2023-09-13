@@ -22,6 +22,7 @@ the command will be different.)
 
 ### Code-Along
 
+
 To start, open up `index.js` in your text editor. You should see, well, nothing.
 We'll fix that soon.
 
